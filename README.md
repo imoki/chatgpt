@@ -23,6 +23,9 @@ https://ainav.org/
   
 * https://www.aicodehelper.com
   - aicodehelper
+
+* https://hyperbeam.com/
+  - 需要注册
   
 * https://chat.fredchungweb.top/
 
