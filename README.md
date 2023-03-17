@@ -26,17 +26,9 @@ https://ainav.org/
   
 * https://chat.fredchungweb.top/
 
-* https://so.csdn.net/so/chat
-
 * http://chat.h2ai.cn/home
 
-* http://119.91.201.57:3000/
-
 * https://bxs.xiaoz.me/#/v2
-
-* https://chat.forchange.cn/
-
-* https://yy.yy.sbs/
 
 * https://hyperbeam.com/
 
