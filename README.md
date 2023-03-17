@@ -44,16 +44,16 @@ https://ainav.org/
   - 需要API-KEY
 
 * https://chat.theb.ai/  
-  - 响应速度很快，支持连续对话。界面简洁。
+  - 响应速度很快，支持连续对话。
 
 * https://chat.tgbot.co 
-  - 访问速度较快，支持连续对话，但有时候出现 有人在用同一个帐号，稍等一会重试或者刷新页面！ 的错误
+  - 访问速度较快，支持连续对话。
 
 * https://chat.geekctf.cf/ 
-  - 响应速度快，支持连续对话。界面简洁。
+  - 响应速度快，支持连续对话。
 
 * https://aigcfun.com/ 
-  - 响应速度很快，支持连续对话。界面简洁。
+  - 响应速度很快，支持连续对话。
 
 * https://chat.zecoba.cn/ 
   - 响应速度快，支持连续对话。
@@ -62,24 +62,24 @@ https://ainav.org/
   - 响应速度较快，不支持连续对话。
 
 * https://chat.cydiar.com/chat 
-  - 不稳定，容易出现 Only one message at a time. 错误。响应速度一般，支持连续对话。
+  - 响应速度一般，支持连续对话，不稳定。
 
 * https://freegpt.cc/ 
-  - 访问速度较慢，有时会出现错误，支持连续对话
+  - 响应速度较慢，支持连续对话，不稳定。
 
 * https://openaizh.com/ 
 
 * https://chat.forchange.cn/ 
-  - 访问速度较快，支持连续对话
+  - 响应速度较快，支持连续对话。
 
 * https://chat.51buygpt.com/ 
   - 需要API-KEY
 
 * https://askai.ws/ 
-  - 两次免费使用机会，之后需要登陆，回答的两人问题并不支持连续对话
+  - 不支持连续对话，免费两次。
 
 * https://vrtalk.io/ 
-  - 访问速度较慢，不支持连续对话
+  - 响应速度较慢，不支持连续对话。
 
 # 国内不可直接连
 * https://www.bing.com/new
@@ -106,4 +106,7 @@ https://ainav.org/
 * https://magickpen.com
   - magickpen文案助手
 
+## 其他
+* https://xiezuocat.com/
+  - 秘塔写作猫
 
