@@ -23,6 +23,9 @@ https://ainav.org/
   
 * https://www.aicodehelper.com
   - aicodehelper
+  
+* https://chat35.com/chat
+  - chat35
 
 * https://hyperbeam.com/
   - 需要注册
@@ -105,3 +108,14 @@ https://ainav.org/
 * https://xiezuocat.com/
   - 秘塔写作猫
 
+* https://github.com/yetone/openai-translator
+  - ChatGPT翻译网页浏览器插件,需要api key
+  
+* https://github.com/rockbenben/ChatGPT-Shortcut
+  - ChatGPT Shortcut, ChatGPT 快捷指令表
+  
+* https://github.com/chathub-dev/chathub
+  - chathub,浏览器插件，可同时使用ChatGPT和NewBing
+
+* https://chatexcel.com
+  - chatexcel，通过聊天来操控Excel表格
