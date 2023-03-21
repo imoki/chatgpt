@@ -1,4 +1,4 @@
-# chatgpt
+# chatgpt（仅用于备份）
 chatgpt、gpt、ai聊天网站汇总  
 文案助手列表  
 
@@ -9,7 +9,7 @@ chatgpt、gpt、ai聊天网站汇总
 大部分来源于以下网站，其中含有更多其他信息    
 https://ainav.org/  
 https://site.loefairy.top/  
-以下网站列表只扩充了小部分这里没写的，仅供参考
+以下网站列表是扩充和备份，仅供参考
 
 # gpt网站列表
 ## 国内可直连
