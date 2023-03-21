@@ -127,8 +127,6 @@ https://site.loefairy.top/
 
 * https://freechatgpt.chat/
 
-* https://chatplus.app (客户端应用)
-
 * https://gpt.tool00.com/
 
 * https://chat.geekr.dev/
@@ -260,3 +258,5 @@ https://site.loefairy.top/
 
 * https://yiyan.baidu.com/welcome
   - 文心一言
+
+* https://chatplus.app
