@@ -9,6 +9,7 @@ chatgpt、gpt、ai聊天网站汇总
 大部分来源于以下网站，其中含有更多其他信息    
 https://ainav.org/  
 https://site.loefairy.top/  
+https://cc.ai55.cc/  
 以下网站列表是扩充和备份，仅供参考
 
 # gpt网站列表
